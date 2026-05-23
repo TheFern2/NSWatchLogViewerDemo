@@ -1,0 +1,15 @@
+{
+  "originHash" : "89c8358caf500fba3cb02e1ecaa5ac3f6fa4587b9c968f4bc83c6a035cb4dff8",
+  "pins" : [
+    {
+      "identity" : "nswatchlogger",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TheFern2/NSWatchLogger.git",
+      "state" : {
+        "revision" : "f44e8413c676b686cbe88ede9ddbcf59c41e5bf3",
+        "version" : "0.3.0"
+      }
+    }
+  ],
+  "version" : 3
+}
